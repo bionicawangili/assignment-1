@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-image:url(images/Geometric-Wallpaper-Black-22.jpg);
+	margin:0 auto;
+	
+	
+}
+nav{
+	background-image:url(images/geometric.png);
+	height:100px;
+	width:100%;
+	padding:5px;
+	
+	
+}
+
+h1{
+	color:white;	
+	margin-left:40px;
+	
+}
+
+h2{
+	color:white;
+	margin:50px;
+}
+
+p{
+	color:white;
+	margin:50px;
+	
+}
+
+.info{
+	color:white;
+	margin:50px;
+	float:right;
+}
+
+a{
+	text-decoration:underline;
+	color:white;
+	
+}

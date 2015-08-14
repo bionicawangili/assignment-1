@@ -1,0 +1,476 @@
+@charset "utf-8";
+/* CSS Document */
+
+#page-wrap {
+	width: 1000px;
+	height: 1100px;
+	margin: 0 auto;
+	background-image: url(images/Geometric-Wallpaper-Black-22.jpg);
+	padding: 0px;
+	
+	
+}
+
+
+html,body{
+	
+    width:100%;
+	position:absolute;
+	background-color: #002157;
+	text-align: center;
+	margin: 0 auto;
+    padding: 0px;
+	height:100%;
+	
+	
+}
+
+#slideshow { 
+    margin-top:40px;
+	margin-bottom:40px;
+	margin-left:40px;
+    width: 900px; 
+    height: 400px; 
+    background-image:url(images/slidebg.jpg);
+	box-shadow: 10px 10px 5px #2A2A2A;
+    
+}
+
+#slideshow > p {
+	position: absolute;
+	top: 110px;
+	left: 630px;
+	right: 50px;
+	bottom: 10px;
+	font-family: Helvetica;
+	font-size: 11px;
+	color: #E5E5E5;
+	font-weight: bold;
+	text-align: left;
+	
+	
+}
+
+#menubox{
+	width:220px;
+	height:220px;
+	float:left;
+	margin-left:5px;
+	position:relative;
+	
+	
+	
+}
+
+#contentMenubox{
+	width: 960px;
+	margin-left: 40px;
+	
+	
+	
+}
+
+a{
+	text-decoration: underline;
+	color: #FFFFFF;
+	text-align: left;
+}
+
+#navbar{
+	background-image:url(images/navbar.jpg);
+	width:1000px;
+	height:80px;
+	padding:0;
+	
+	
+}
+
+
+ul li{
+	float: left;
+	text-decoration: none;
+	margin-left:20px;
+	list-style: none;
+	font-family: Helvetica;
+	text-transform:uppercase;
+	font-size:12px;
+	color:#FFF;
+	font-weight:500;
+	
+	
+	
+	
+	
+}
+
+ul li a{
+	color:#fff;
+	text-decoration:none;
+	
+}
+
+ul li a:hover {
+	color:#fff568;
+}
+
+
+#logo{
+	width:100px;
+	height:60px;
+	padding:10px;
+	padding-left:60px;
+	
+	
+}
+
+#menubar{
+	background-color: #C00;
+	width: 1000px;
+	height: 40px;
+	color: white;
+	
+	position: absolute;	
+	
+	
+	
+}
+
+
+
+#content{
+	width: 960px;
+	position: absolute;
+	height: 915px;
+	margin-top: 50px;
+	text-align: left;
+	
+	
+	
+}
+
+
+#tableHeading{
+	
+	background-image:url(images/table_03.jpg);
+	height:50px;
+	width: 900px;
+	margin-left:50px;
+	margin-top:30px;
+
+}
+
+.h2table{
+	padding-top:15px;
+	font-size:16px;
+	text-align:center;
+	font-family: Helvetica;
+	color: white;
+	letter-spacing:10px;
+	font-weight:500;
+	text-transform:uppercase;
+	
+	
+}
+.trclass{
+	background-color:#002157;
+	color:white;
+	text-transform:uppercase;
+	font-family: Helvetica;
+	font-size:14px;
+	border:none;
+	
+}
+.tdLadder{
+	padding:20px;	
+	background-image:url(images/diggers_06.jpg);
+	color:white;
+	text-transform:uppercase;
+	font-family: Helvetica;
+	font-size:12px;
+	border:none;
+	
+	
+}
+
+table{
+	width:900px;
+	margin-left:50px;
+	
+	
+	
+}
+
+th{
+	padding:20px;
+	color:white;
+	text-transform:uppercase;
+	font-family: Helvetica;
+	font-size:12px;
+	
+}
+
+
+
+.h3style{
+	font-family: Helvetica;
+	font-size:24px;
+	color:#50C2E5;
+	position:absolute;
+	margin-left:50px;
+	
+	
+	
+}
+
+hr{
+	margin-top:60px;
+	margin-left:50px;
+	width:900px;
+	color:#50C2E5;
+
+	
+}
+
+#imgabout{
+	margin-left:50px;
+	margin-top:30px;
+
+}
+
+.abtpara{
+	margin-top:20px;
+	font-family:Helvetica;
+	font-size:12px;
+	color:white;
+	margin-left:550px;
+	
+}
+
+.headline{
+	margin-top:30px;
+	font-family:Helvetica;
+	font-size:16px;
+	font-weight:bold;
+	margin-left:550px;
+	color:#FFE500;
+	
+}
+
+.who{
+	width:900px;
+	margin-top:80px;
+	margin-left:50px;
+	
+}
+
+.whopara{
+	margin-top:20px;
+	font-family:Helvetica;
+	font-size:12px;
+	color:white;
+	margin-left:20px;
+	margin-right: 40px;
+	
+	
+	
+}
+
+.whoheadline{
+	margin-top:20px;
+	font-family:Helvetica;
+	font-size:16px;
+	font-weight:bold;
+	margin-left:100px;
+	color:#FFE500;
+	
+	
+}
+
+.tdWho{
+	background-image:url(images/transparentbox.png);
+	margin-left:100px;
+	
+	
+	
+}
+
+.contactHeadline{
+	margin-top:20px;
+	font-family:Helvetica;
+	font-size:16px;
+	margin-left:50px;
+	margin-right:400px;
+
+	color:white;
+	
+	
+}
+
+#contactTable{
+	
+	width:400px;
+	color:#FFE500;
+	font-family:Helvetica;
+	
+	
+}
+
+.contactform{
+	width:350px;
+	color:#50C2E5;
+	padding-left:10px;
+	
+	
+}
+.contactformMsg{
+	width:350px;
+	height:100px;
+	color:#50C2E5;
+	height:150px;
+	padding-left:10px;
+	text-align:left;
+	padding-top:10px;
+	margin:0;
+	resize:none;
+	
+	
+	
+	
+}
+
+.positionform{
+	
+	position:absolute;
+	width:500px;
+	margin-top:50px;
+	left:50px;
+	background-image:url(images/geometric.png);
+	padding:40px;
+
+}
+
+.boxguidelines{
+	margin-top:30px;
+	width:900px;
+	background-image:url(images/Geometric-Wallpaper-11.jpg);
+	padding-left:100px;
+
+}
+
+.playingguidelines{
+	font-size:16px;
+	color:white;
+	font-family:Helvetica;
+	text-transform:uppercase;
+	font-weight:bold;	
+	width:300px;
+	height:200px;
+
+}
+
+.playingguidelinescontent{
+	font-size:12px;
+	color:white;
+	font-family:Helvetica;
+	padding-right:50px;
+	width:300px;
+	height:200px;
+
+	
+	
+}
+
+.signuptable{
+	width: 500px;
+	margin:0;
+	
+}
+
+.formsignup{
+	position:absolute;
+	width:500px;
+	margin-top:50px;
+	padding:40px;
+	left:50px;
+	background-image:url(images/geometric.png);
+	
+	
+}
+
+td{
+	font-family:Helvetica;
+	color:white;
+	font-size:14px;
+	padding:10px;
+	
+	
+}
+
+p{
+	font-family:Helvetica;
+	color:white;
+	font-size:14px;	
+	
+}
+
+input[type=submit]
+{
+margin-bottom: 10px;
+width:90px;
+padding: 2px;
+border-radius:3px;
+border:1px solid yellow;
+background-color: #50C2E5;
+font-size:12px;
+cursor:pointer;
+color:white;
+font-family:Helvetica;
+
+}
+
+#dropDown{
+	color:#50C2E5;
+	
+	
+}
+
+#footer{
+	background-image:url(images/Geometric-Wallpaper-11.jpg);
+	width: 1000px;
+	height: 60px;
+	
+	postion:absolute;
+	margin:0 auto;
+	
+	
+	
+	
+	
+}
+#posFooter{
+	margin-left:260px;	
+	
+}
+
+.footerPstyle{
+	font-family:Helvetica;
+	color:white;
+	float:left;
+	margin-left:20px;
+	margin-bottom:3px;
+	
+	
+	
+}
+
+
+.addPstyle{
+	font-family:Helvetica;
+	color:white;
+	float:left;
+	margin-top:0;
+	margin-left:130px;
+	
+	
+	
+}
