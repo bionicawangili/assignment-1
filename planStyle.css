@@ -1,17 +1,27 @@
 @charset "utf-8";
 /* CSS Document */
 
-body{
+
+#pagewrap{
+	margin: 0 auto;
+	width:1000px;
 	background-image:url(images/Geometric-Wallpaper-Black-22.jpg);
+	height:1500px;
+}
+
+body{
+	background-color:black;
 	margin:0 auto;
 	
 	
 }
 nav{
-	background-image:url(images/geometric.png);
+	background-image:url(images/Geometric-Wallpaper-11.jpg);
 	height:100px;
-	width:100%;
-	padding:5px;
+	width:1000px;
+	padding-top:5px;
+	padding-bottom:15px;
+	
 	
 	
 }
@@ -19,17 +29,25 @@ nav{
 h1{
 	color:white;	
 	margin-left:40px;
+	font-family:Helvetica;
 	
 }
 
 h2{
-	color:white;
-	margin:50px;
+	color:#2EC8B2;
+	margin-left:50px;
+	font-family:Helvetica;
 }
 
+
 p{
-	color:white;
-	margin:50px;
+	color: white;
+	margin-top: 0;
+	margin-right: 300px;
+	margin-left: 50px;
+	margin-bottom: 0;	
+	font-family:Helvetica;
+	
 	
 }
 
@@ -44,3 +62,4 @@ a{
 	color:white;
 	
 }
+
